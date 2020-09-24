@@ -120,6 +120,25 @@ header.sticky ul li a {
      padding-right: 30px;
 }
 
+.social {
+     margin-top: 10px;
+     display: flex;
+     justify-content: space-evenly;
+     font-size: 30px;
+     font-weight: 700;
+     text-decoration: none;
+     color: #222;
+}
+
+.social a {
+     text-decoration: none;
+}
+
+.social a:hover {
+     color: #111;
+     transition: 0.5s;
+}
+
 .contentBx h4 {
      font-size: 24px;
      margin-bottom: 10px;
